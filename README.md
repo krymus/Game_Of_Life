@@ -10,7 +10,8 @@ First thing is to set up our initial arrangment of cells alive:
  When you are ready press ENTER
 
  To edit setting and play with different versions of the game edit file Constants.java
- Recommended variations:
+ Recommended variation:
  
  [Larger than Life](https://conwaylife.com/wiki/Larger_than_Life)
+ 
  
